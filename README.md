@@ -1,2 +1,2 @@
-# capingnuyul
-bot caping
+# capingfull
+bot caping full versi
